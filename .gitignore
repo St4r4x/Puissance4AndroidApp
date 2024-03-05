@@ -1,0 +1,49 @@
+# Fichiers générés
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Fichiers de configuration de l'IDEA
+.idea/
+*.hprof
+
+# Keystore
+*.jks
+*.keystore
+
+# Dossier de sortie
+/out
+
+# Dossiers générés par Android Studio 3.1 et versions ultérieures
+/generated
+/reports
+/files
+/test-results
+/debug
+/release
+
+# Fichier ProGuard
+proguard/
+
+# Log Files
+*.log
+
+# Autres
+*.apk
+*.aar
+*.jar
+/gradlew
+/gradlew.bat
+gradle-wrapper.jar
